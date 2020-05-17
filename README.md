@@ -1,1 +1,1 @@
-# submitform
+I used html, ccs javascript and php. I used css to desing a responsive and centered form box, javascript to manipulate the dom adding error messages if need be, sending a request to the server and using JSON.parse() to get array back from the server.  (My first time using php) I did a code along and then did my own mod's to the code, especially for the email part of it.  
